@@ -1,1 +1,1 @@
-# FreeCodeCamp-CatPhotoApp
+# Activities for the Capacita Brasil course
