@@ -1,1 +1,1 @@
-# FreeCodeCamp---CatPhotoApp
+# FreeCodeCamp-CatPhotoApp
